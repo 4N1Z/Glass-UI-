@@ -1,2 +1,3 @@
-# Glass-UI-
-Just trying some random stuff...
+# Glass-UI
+Glass morphism with css&html.
+Web Design concept.
